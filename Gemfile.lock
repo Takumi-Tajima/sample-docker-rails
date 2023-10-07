@@ -211,6 +211,7 @@ GEM
 
 PLATFORMS
   aarch64-linux-musl
+  arm64-darwin-22
 
 DEPENDENCIES
   bootsnap
