@@ -13,7 +13,10 @@ services:
     tty: true
     volumes:
       - .:/myapp
+      - gem_data:/usr/local/bundle
     ports:
       - "4000:4000"
     depends_on:
       - db
+volumes:
+  gem_data:

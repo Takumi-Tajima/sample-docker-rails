@@ -17,6 +17,8 @@ gem "puma", "~> 5.0"
 gem "rails", "~> 7.0.8"
 gem 'rails-i18n'
 gem "redcarpet"
+gem 'rubocop', require: false
+gem 'sgcop', github: 'SonicGarden/sgcop'
 gem "simple_form"
 gem "sprockets-rails"
 gem "stimulus-rails"
