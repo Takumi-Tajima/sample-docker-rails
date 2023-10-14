@@ -8,6 +8,7 @@ gem "bootstrap"
 gem "capybara"
 gem "devise"
 gem "haml-rails"
+gem 'html2haml'
 gem "importmap-rails"
 gem "jbuilder"
 gem "pg", "~> 1.1"
