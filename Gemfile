@@ -7,6 +7,7 @@ gem "bootsnap", require: false
 gem "bootstrap"
 gem "capybara"
 gem "devise"
+gem 'haml_lint', require: false
 gem "haml-rails"
 gem 'html2haml'
 gem "importmap-rails"
